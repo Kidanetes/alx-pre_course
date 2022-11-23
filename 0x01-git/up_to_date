@@ -1,5 +1,4 @@
-alx-pre_course/0x01-git/# git checkout update_script
+alx-pre_course/0x01-git/# git checkout -b update_script
 alx-pre_course/0x01-git/# git merge orgin/master
 alx-pre_course/0x01-git/# git push orgin update_script
-alx-pre_course/0x01-git/# git fetch orgin
 alx-pre_course/0x01-git/# git rebase orgin/master
